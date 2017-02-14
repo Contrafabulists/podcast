@@ -1,0 +1,630 @@
+- title: "Tech Gypsies Episode 1"
+  summary: "Welcome to the first episode of the Tech Gypsies podcast, Kin Lane and Audrey Watters (hopefully) weekly discussion of the latest technology news."
+  description: "Welcome to the first episode of the Tech Gypsies podcast, Kin Lane and Audrey Watters' (hopefully) weekly discussion of the latest technology news. In this episode, we discuss bots (past, present, and future), investment patterns, Facebook's plans for the future, what happens when we can't afford the loans for our Internet-connected devices, and UC Davis' attempts to delete its pepper-spray incident from the Web."
+  subtitle: "The Weeks Tech News, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-04-17-2016.m4a
+  audio_length: 27524208
+  sound_cloud: http://soundcloud.com/kinlane/tech-gypsies-podcast-04-17-2016
+  duration: '0:33:02'
+  publish_date: "2016-04-17 15:00:00"
+  url: 2016/04/17/episode-1
+  tags:
+  - Technology
+  - Politics
+- title: "Tech Gypsies Episode 2"
+  summary: "Welcome to the second episode of the Tech Gypsies podcast, Kin Lane and Audrey Watters weekly discussion of the latest technology news."
+  description: "Welcome to the second episode of the Tech Gypsies podcast, Kin Lane and Audrey Watters' weekly discussion of the latest technology news. In this episode, we talk about Prince, music, technology, and the importance of controlling your own intellectual property."
+  subtitle: "The Weeks Tech News, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-04-24-2016.m4a
+  audio_length: 28510640
+  sound_cloud: http://soundcloud.com/kinlane/tech-gypsies-podcast-04-24-2016
+  duration: '0:34:22'
+  publish_date: "2016-04-24 15:00:00"
+  url: 2016/04/24/episode-2
+  tags:
+  - Technology
+  - Politics
+- title: "Tech Gypsies Episode 3"
+  summary: "In this episode, we continue our Prince-inspired discussion from last week about the importance of controlling your own intellectual property."
+  description: "In this episode, we continue our Prince-inspired discussion from last week about the importance of controlling your own intellectual property."
+  subtitle: "The Weeks Tech News, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-05-01-2016.m4a
+  audio_length: 24781326
+  sound_cloud: http://soundcloud.com/kinlane/tech-gypsies-podcast-05-01-2016
+  duration: '0:29:30'
+  publish_date: "2016-05-01 15:00:00"
+  url: 2016/05/01/episode-3
+  tags:
+  - Technology
+  - Politics
+- title: "Tech Gypsies Episode 4"
+  summary: "In this episode, we discuss Uber and Lyft's defeat at the ballot box in Austin, the failures of the technology press, the horrors of the Techcrunch homepage, and the Further Future Festival for tech's 1%."
+  description: "In this episode, we discuss Uber and Lyft's defeat at the ballot box in Austin, the failures of the technology press, the horrors of the Techcrunch homepage, and the Further Future Festival for tech's 1%."
+  subtitle: "The Weeks Tech News, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-05-08-2016.m4a
+  audio_length: 27565075
+  sound_cloud: http://soundcloud.com/kinlane/tech-gypsies-podcast-05-08-2016
+  duration: '0:32:35'
+  publish_date: "2016-05-08 15:00:00"
+  url: 2016/05/08/episode-4
+  tags:
+  - Technology
+  - Politics
+- title: "Tech Gypsies Episode 5"
+  summary: "In this episode, we discuss Oracle v Google and the (unfortunate) copyrightability of APIs."
+  description: "In this episode, we discuss Oracle v Google and the (unfortunate) copyrightability of APIs."
+  subtitle: "The Weeks Tech News, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-05-15-2016.m4a
+  audio_length: 25930210
+  sound_cloud: http://s3.amazonaws.com/kinlane-productions/podcasts/tech-gypsies/audio/tech-gypsies-podcast-05-15-2016.m4a
+  duration: '0:31:01'
+  publish_date: "2016-05-15 15:00:00"
+  url: 2016/05/15/episode-5
+  tags:
+  - Technology
+  - Politics
+- title: "Tech Gypsies Episode 6"
+  summary: "In this episode, we discuss the role that technology plays in our lives, our reliance on data and devices, and predictions about AI's spring."
+  description: "In this episode, we discuss the role that technology plays in our lives, our reliance on data and devices, and predictions about AI's spring."
+  subtitle: "The Weeks Tech News, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/audreywatters/tech-gypsies-podcast-05-22-2016.mp3
+  audio_length: 288856
+  sound_cloud: http://s3.amazonaws.com/audreywatters/tech-gypsies-podcast-05-22-2016.mp3
+  duration: '0:29:48'
+  publish_date: "2016-05-22 15:00:00"
+  url: 2016/05/22/episode-6
+  tags:
+  - Technology
+  - Politics
+- title: "Tech Gypsies Episode 7"
+  summary: "In this episode, we discuss what was a huge week for API-related news: the Google v Oracle case, the Twilio IPO, and the sale of API Evangelist (which is now, thanks to the API community, unnecessary). We also talk about billionaires and lawsuits, billionaires and ed-tech investment, Trump, and Sea Monkeys."
+  description: "In this episode, we discuss what was a huge week for API-related news: the Google v Oracle case, the Twilio IPO, and the sale of API Evangelist (which is now, thanks to the API community, unnecessary). We also talk about billionaires and lawsuits, billionaires and ed-tech investment, Trump, and Sea Monkeys."
+  subtitle: "The Weeks Tech News, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/audreywatters/techgypsies-podcast-2016-05-29.mp3
+  audio_length: 51935317
+  sound_cloud: http://s3.amazonaws.com/audreywatters/techgypsies-podcast-2016-05-29.mp3
+  duration: '0:36:04'
+  publish_date: "2016-05-29 12:00:00"
+  url: 2016/05/29/episode-7
+  tags:
+  - Technology
+  - Politics
+- title: "Tech Gypsies Episode 8"
+  summary: "In this episode, we discuss technology and attention and the lie of 'what technology wants'."
+  description: "In this episode, we discuss technology and attention and the lie of 'what technology wants'."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/audreywatters/techgypsies-podcast-2016-06-05.mp3
+  audio_length: 53004874
+  sound_cloud: http://soundcloud.com/kinlane/techgypsies-podcast-2016-06-05
+  duration: '0:36:48'
+  publish_date: "2016-06-05 09:00:00"
+  url: 2016/06/05/episode-8
+  tags:
+  - Technology
+  - Politics
+- title: "Tech Gypsies Episode 9"
+  summary: "In this episode, we talk about violence and toxic masculinity, the ethics of drones, and the joys of being out of range of the Internet and cellphone signals."
+  description: "In this episode, we talk about violence and toxic masculinity, the ethics of drones, and the joys of being out of range of the Internet and cellphone signals."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/audreywatters/techgypsies-2016-06-12-episode-9.mp3
+  audio_length: 51720903
+  sound_cloud: http://soundcloud.com/kinlane/techgypsies-podcast-episode-9
+  duration: '0:35:55'
+  publish_date: "2016-06-12 09:00:00"
+  url: 2016/06/12/episode-9
+  tags:
+  - Technology
+  - Politics
+- title: "Tech Gypsies Episode 10"
+  summary: "In this episode, we talk about platforms, social media data, blockchains, code, and silly techno-utopian fantasies about 'smart' things."
+  description: "In this episode, we talk about platforms, social media data, blockchains, code, and silly techno-utopian fantasies about 'smart' things."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/audreywatters/techgypsies-2016-06-19-episode10.mp3
+  audio_length: 57284985
+  sound_cloud: http://soundcloud.com/kinlane/techgypsies-podcast-episode-10
+  duration: '0:39:47'
+  publish_date: "2016-06-19 09:00:00"
+  url: 2016/06/19/episode-10
+  tags:
+  - Technology
+  - Politics
+- title: "Tech Gypsies Episode 11"
+  summary: "In this episode, we talk about 40-mile hikes, APIs, and the Brexit."
+  description: "In this episode, we talk about 40-mile hikes, APIs, and the Brexit."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/audreywatters/techgypsies+podcast+2016-06-26.mp3
+  audio_length: 43446565
+  sound_cloud: http://soundcloud.com/kinlane/tech-gypsies-podcast-episode-11-2016-06-26
+  duration: '0:30:10'
+  publish_date: "2016-06-26 09:00:00"
+  url: 2016/06/26/episode-11
+  tags:
+  - Technology
+  - Politics
+- title: "Tech Gypsies Episode 12"
+  summary: "In this episode, we talk about the history of technology (and the history of marketing technology), technology and an obsession with 'real time' data, and Hillary Clinton's 'innovation agenda.'"
+  description: "In this episode, we talk about the history of technology (and the history of marketing technology), technology and an obsession with 'real time' data, and Hillary Clinton's 'innovation agenda.'"
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/tech-gypsies-podcast-2016-07-03.mp3
+  audio_length: 55359029
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-2016-07-03
+  duration: '0:38:26'
+  publish_date: "2016-07-03 09:00:00"
+  url: 2016/07/03/episode-12
+  tags:
+  - Technology
+  - Politics
+- title: "Tech Gypsies Episode 13"
+  summary: "In this episode, we talk about Isaac Asimov's 'First Law of Robotics,' the FAA's new rules on drones, the militarization of technology, and killer robots."
+  description: "In this episode, we talk about Isaac Asimov's 'First Law of Robotics,' the FAA's new rules on drones, the militarization of technology, and killer robots."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/tech+gypsies+2016-07-10.mp3 
+  audio_length: 51614324
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-2016-07-10
+  duration: '0:35:50'
+  publish_date: "2016-07-10 09:00:00"
+  url: 2016/07/10/episode-13
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 14"
+  summary: "In this episode, we talk about Pokemon Go. Because of course we do."
+  description: "In this episode, we talk about Pokemon Go. Because of course we do."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/tech-gypsies-2016-07-17.mp3 
+  audio_length: 45764985
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-2016-07-10
+  duration: '0:31:46'
+  publish_date: "2016-07-17 09:00:00"
+  url: 2016/07/17/episode-14
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 15"
+  summary: "In this episode, we talk about Peter Thiel, Donald Trump, and other supervillains."
+  description: "In this episode, we talk about Peter Thiel, Donald Trump, and other supervillains."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies-2016-07-24.mp3
+  audio_length: 55287558
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-podcast-2016-07-24
+  duration: '0:38:23'
+  publish_date: "2016-07-24 09:00:00"
+  url: 2016/07/24/episode-15
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 16"
+  summary: "In this episode, we talk about Wikileaks, ethics, transparency, and Twitter verification."
+  description: "In this episode, we talk about Wikileaks, ethics, transparency, and Twitter verification."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies-2016-07-31.mp3
+  audio_length: 49830683
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-2016-07-31
+  duration: '0:34:36'
+  publish_date: "2016-07-31 09:00:00"
+  url: 2016/07/31/episode-16
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 17"
+  summary: "In this episode, we talk about drones, turtles, and Seymour Papert."
+  description: "In this episode, we talk about drones, turtles, and Seymour Papert."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies-2016-08-07.mp3
+  audio_length: 53290131
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-2016-08-07
+  duration: '0:37:00'
+  publish_date: "2016-08-07 09:00:00"
+  url: 2016/08/07/episode-17
+  tags:
+  - Technology
+  - Politics  
+- title: "Tech Gypsies Episode 18"
+  summary: "In this episode, we talk about digital activism and digital infrastructure."
+  description: "In this episode, we talk about digital activism and digital infrastructure."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast-2016-08-14.mp3
+  audio_length: 51043183
+  sound_cloud: https://soundcloud.com/kinlane/podcast-2016-08-14
+  duration: '0:35:27'
+  publish_date: "2016-08-14 09:00:00"
+  url: 2016/08/14/episode-18
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 19"
+  summary: "In this episode, we talk about the NSA, Gawker, and reciprocity."
+  description: "In this episode, we talk about the NSA, Gawker, and reciprocity."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies-podcast-2016-08-21.mp3
+  audio_length: 40985831
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-podcast-2016-08-21
+  duration: '0:28:28'
+  publish_date: "2016-08-21 09:00:00"
+  url: 2016/08/21/episode-19
+  tags:
+  - Technology
+  - Politics  
+- title: "Tech Gypsies Episode 20"
+  summary: "In this episode, we talk about a domain of one's own, identity, integrity, and air gaps."
+  description: "In this episode, we talk about a domain of one's own, identity, integrity, and air gaps."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast-2016-08-28.mp3
+  audio_length: 49545426
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-2016-08-28
+  duration: '0:34:24'
+  publish_date: "2016-08-28 09:00:00"
+  url: 2016/08/28/episode-20
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 21"
+  summary: "In this episode, we talk about algorithms, markets, and political protest."
+  description: "In this episode, we talk about algorithms, markets, and political protest."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast+2016-09-04.mp3
+  audio_length: 44124286
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-2016-09-04
+  duration: '0:30:38'
+  publish_date: "2016-09-04 09:00:00"
+  url: 2016/09/04/episode-21
+  tags:
+  - Technology
+  - Politics  
+- title: "Tech Gypsies Episode 22"
+  summary: "In this episode, we talk about Star Trek and digital and physical storage of stuff."
+  description: "In this episode, we talk about Star Trek and digital and physical storage of stuff."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast-2016-09-11.mp3
+  audio_length: 45836456
+  sound_cloud: https://soundcloud.com/kinlane/podcast-2016-09-11
+  duration: '0:31:50'
+  publish_date: "2016-09-11 09:00:00"
+  url: 2016/09/11/episode-22
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 23"
+  summary: "In this episode, we talk about algorithms, openness, and the end of the Internet."
+  description: "In this episode, we talk about algorithms, openness, and the end of the Internet."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast-2016-09-18.mp3
+  audio_length: 49367375
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-2016-09-18
+  duration: '0:34:17'
+  publish_date: "2016-09-18 09:00:00"
+  url: 2016/09/18/episode-23
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 24"
+  summary: "In this episode, we talk about Palmer Luckey, pigeons, and the dystopic landscape of Facebook and VR."
+  description: "In this episode, we talk about Palmer Luckey, pigeons, and the dystopic landscape of Facebook and VR."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast+2016-09-25.mp3
+  audio_length: 49759212
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-2016-09-25
+  duration: '0:34:33'
+  publish_date: "2016-09-25 09:00:00"
+  url: 2016/09/25/episode-24
+  tags:
+  - Technology
+  - Politics  
+- title: "Tech Gypsies Episode 25"
+  summary: "In this episode, we talk about The Cyber, metaphors of cybersecurity, and fantasies about colonizing Mars."
+  description: "In this episode, we talk about The Cyber, metaphors of cybersecurity, and fantasies about colonizing Mars."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies-2016-10-02.mp3
+  audio_length: 49402484
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-2016-10-02
+  duration: '0:34:18'
+  publish_date: "2016-10-02 09:00:00"
+  url: 2016/10/02/episode-25
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 26"
+  summary: "In this episode, we talk about constructive technology criticism and the complexities of Javascript."
+  description: "In this episode, we talk about constructive technology criticism and the complexities of Javascript."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies-podcast-2016-10-09.mp3
+  audio_length: 55466236
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-podcast-2016-10-09
+  duration: '0:38:31'
+  publish_date: "2016-10-09 09:00:00"
+  url: 2016/10/09/episode-26
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 27"
+  summary: "In this episode, we talk about Peter Thiel's politics, technology and surveillance, and the failure of Silicon Valley to actually pull of their dystopian vision."
+  description: "In this episode, we talk about Peter Thiel's politics, technology and surveillance, and the failure of Silicon Valley to actually pull of their dystopian vision."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies+podcast+2016-10-16.mp3
+  audio_length: 58925684
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-podcast-2016-10-16
+  duration: '0:40:55'
+  publish_date: "2016-10-16 09:00:00"
+  url: 2016/10/16/episode-27
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 28"
+  summary: "In this episode, we talk about the Internet outage on Friday, Wikileaks and free speech, and Facebook and misinformation.."
+  description: "In this episode, we talk about the Internet outage on Friday, Wikileaks and free speech, and Facebook and misinformation."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies-2016-10-23.mp3
+  audio_length: 55393511
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-2016-10-23
+  duration: '0:38:28'
+  publish_date: "2016-10-23 09:00:00"
+  url: 2016/10/23/episode-28
+  tags:
+  - Technology
+  - Politics  
+- title: "Tech Gypsies Episode 29"
+  summary: "In this episode, we talk about Facebook, algorithms, and politics, as well as about certification and the legitimization of new technologies."
+  description: "In this episode, we talk about Facebook, algorithms, and politics, as well as about certification and the legitimization of new technologies."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies+2016-10-30.mp3
+  audio_length: 53219287
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-2016-10-30
+  duration: '0:36:57'
+  publish_date: "2016-10-30 09:00:00"
+  url: 2016/10/30/episode-29
+  tags:
+  - Technology
+  - Politics  
+- title: "Tech Gypsies Episode 30"
+  summary: "In this episode, we talk about email, predictions about the future of technology, Presidents, and literacy."
+  description: "In this episode, we talk about email, predictions about the future of technology, Presidents, and literacy."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies+2016-11-07.mp3
+  audio_length: 60102448
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-2016-11-07
+  duration: '0:41:44'
+  publish_date: "2016-11-07 09:00:00"
+  url: 2016/11/07/episode-30
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 31"
+  summary: "In this episode, we talk about Trump, totalitarianism, swamps, and how we are going to build anti-fascist technologies and communities moving forward."
+  description: "In this episode, we talk about Trump, totalitarianism, swamps, and how we are going to build anti-fascist technologies and communities moving forward."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast+2016-11-13.mp3
+  audio_length: 62921792
+  sound_cloud: https://soundcloud.com/kinlane/podcast-2016-11-13
+  duration: '0:43:42'
+  publish_date: "2016-11-13 09:00:00"
+  url: 2016/11/13/episode-31
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 32"
+  summary: "In this episode, we talk about fake news, Facebook, and propaganda."
+  description: "In this episode, we talk about fake news, Facebook, and propaganda."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies-2016-11-20.mp3
+  audio_length: 57570242
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-2016-11-20
+  duration: '0:39:59'
+  publish_date: "2016-11-20 09:00:00"
+  url: 2016/11/20/episode-32
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 33"
+  summary: "In this episode, we talk about Betsy DeVos, Trump's choice for Secretary of Education and continue our discussion of fake news and Facebook."
+  description: "In this episode, we talk about Betsy DeVos, Trump's choice for Secretary of Education and continue our discussion of fake news and Facebook."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast-2016-11-27.mp3
+  audio_length: 50615610
+  sound_cloud: https://soundcloud.com/kinlane/podcast-2016-11-27
+  duration: '0:35:09'
+  publish_date: "2016-11-27 09:00:00"
+  url: 2016/11/27/episode-33
+  tags:
+  - Technology
+  - Politics  
+- title: "Tech Gypsies Episode 34"
+  summary: "In this episode, we talk about the Dakota Access Pipeline, the Ghost Ship fire, and Cambridge Analytica."
+  description: "In this episode, we talk about the Dakota Access Pipeline, the Ghost Ship fire, and Cambridge Analytica."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast+2016-12-04.mp3
+  audio_length: 50365462
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-2016-12-04
+  duration: '0:34:58'
+  publish_date: "2016-12-04 09:00:00"
+  url: 2016/12/04/episode-34
+  tags:
+  - Technology
+  - Politics   
+- title: "Tech Gypsies Episode 35"
+  summary: "In this episode, we talk about misinformation, disinformation, conspiracy theories, the Russians, and digital polarization."
+  description: "In this episode, we talk about misinformation, disinformation, conspiracy theories, the Russians, and digital polarization."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies-podcast-2016-12-11.mp3
+  audio_length: 51869488
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-podcast-2016-12-11
+  duration: '0:36:01'
+  publish_date: "2016-12-11 09:00:00"
+  url: 2016/12/11/episode-35
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 36"
+  summary: "In this episode, we talk about libertarian futurist fantasies, regulatory mechanisms, and the schadenfreude of watching tech CEOs squirm and grovel in Trump Tower."
+  description: "In this episode, we talk about libertarian futurist fantasies, regulatory mechanisms, and the schadenfreude of watching tech CEOs squirm and grovel in Trump Tower."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast+2016-12-18.mp3
+  audio_length: 51293331
+  sound_cloud: https://soundcloud.com/kinlane/podcast-2016-12-18
+  duration: '0:35:37'
+  publish_date: "2016-12-18 09:00:00"
+  url: 2016/12/18/episode-36
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 37"
+  summary: "In this episode, we talk about nuclear weapons, military technology, home automation, and the return of the worst of the Eighties."
+  description: "In this episode, we talk about nuclear weapons, military technology, home automation, and the return of the worst of the Eighties."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast-2016-12-25.mp3
+  audio_length: 52683881
+  sound_cloud: https://soundcloud.com/kinlane/podcast-2016-12-25
+  duration: '0:36:35'
+  publish_date: "2016-12-25 09:00:00"
+  url: 2016/12/25/episode-37
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 38"
+  summary: "In this episode, we talk about technology and the new year."
+  description: "In this episode, we talk about technology and the new year."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast+2017-01-01.mp3
+  audio_length: 46264028
+  sound_cloud: https://soundcloud.com/kinlane/podcast-2017-01-01
+  duration: '0:32:07'
+  publish_date: "2017-01-01 09:00:00"
+  url: 2017/01/01/episode-38
+  tags:
+  - Technology
+  - Politics
+- title: "Tech Gypsies Episode 39"
+  summary: "In this episode, we talk about Russian hacking, Twitter harassment, and Facebook versus the public sphere."
+  description: "In this episode, we talk about Russian hacking, Twitter harassment, and Facebook versus the public sphere."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/techgypsies+2017-01-08.mp3
+  audio_length: 49902154
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-2017-01-08
+  duration: '0:34:39'
+  publish_date: "2017-01-08 09:00:00"
+  url: 2017/01/08/episode-39
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 40"
+  summary: "In this episode, we talk about Alexa and the commercialization of home surveillance."
+  description: "In this episode, we talk about Alexa and the commercialization of home surveillance."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast+2017-01-15.mp3
+  audio_length: 51364175 
+  sound_cloud: https://soundcloud.com/kinlane/podcast-2017-01-15
+  duration: '0:35:40'
+  publish_date: "2017-01-15 09:00:00"
+  url: 2017/01/15/episode-40
+  tags:
+  - Technology
+  - Politics  
+- title: "Tech Gypsies Underground History 1"
+  summary: "In this +1 episode, we talk about the history of the punch card."
+  description: "In this +1 episode, we talk about the history of the punch card.."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/underground+1.mp3
+  audio_length: 10598108
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-underground-history-the-punch-card
+  duration: '0:07:21'
+  publish_date: "2017-01-18 09:00:00"
+  url: 2017/01/18/underground-punch-card
+  tags:
+  - Technology
+  - Politics  
+- title: "Tech Gypsies Episode 41"
+  summary: "In this episode, we talk about alternative facts, fascism, and information literacy."
+  description: "In this episode, we talk about alternative facts, fascism, and information literacy."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast+2017-01-22.mp3
+  audio_length: 61707411 
+  sound_cloud: https://soundcloud.com/kinlane/techgypsies-podcast-2017-01-22-alternative-facts
+  duration: '0:42:51'
+  publish_date: "2017-01-22 09:00:00"
+  url: 2017/01/22/episode-41
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Underground History 2"
+  summary: "In this +1 episode, we talk about the history of the chat bot."
+  description: "In this +1 episode, we talk about the history of the chat bot."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast+underground+history+2017-01-25.mp3
+  audio_length: 9421344 
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-underground-history-the-chat-bot
+  duration: '0:06:32'
+  publish_date: "2017-01-25 09:00:00"
+  url: 2017/01/25/underground-chat-bot
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 42"
+  summary: "In this episode, we talk about Trump, immigration, and technology."
+  description: "In this episode, we talk about Trump, immigration, and technology."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast+2017-01-29.mp3
+  audio_length: 59674249  
+  sound_cloud: https://soundcloud.com/kinlane/tech-gypsies-podcast-episode-42-executive-orders
+  duration: '0:41:26'
+  publish_date: "2017-01-29 09:00:00"
+  url: 2017/01/29/episode-42
+  tags:
+  - Technology
+  - Politics 
+- title: "Tech Gypsies Episode 43"
+  summary: "In this episode, we talk about technology and profiling in a time of Trump."
+  description: "In this episode, we talk about technology and profiling in a time of Trump."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/tech-gypsies-podcast-1500.png
+  audio_file: http://s3.amazonaws.com/techgypsies/podcast-2017-02-12.mp3
+  audio_length: 54396051   
+  sound_cloud: https://soundcloud.com/kinlane/episode-43-2017-02-12
+  duration: '0:37:40'
+  publish_date: "2017-02-12 09:00:00"
+  url: 2017/02/12/episode-43
+  tags:
+  - Technology
+  - Politics                     

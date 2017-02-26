@@ -641,4 +641,18 @@
   url: 2017/02/15/underground-doomsday-clock
   tags:
   - Technology
-  - Politics                       
+  - Politics 
+- title: "Contrafabulists Episode 44"
+  summary: "In this episode, we talk about venture capital, data collection, and the narratives Silicon Valley tells to justify its existence."
+  description: "In this episode, we talk about venture capital, data collection, and the narratives Silicon Valley tells to justify its existence."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: http://s3.amazonaws.com/contrafabulists/2017-02-26-episode-44.mp3
+  audio_length: 52791088   
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-44
+  duration: '0:36:39'
+  publish_date: "2017-02-26 09:00:00"
+  url: 2017/02/26/episode-44
+  tags:
+  - Technology
+  - Politics                         

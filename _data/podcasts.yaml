@@ -655,4 +655,18 @@
   url: 2017/02/26/episode-44
   tags:
   - Technology
-  - Politics                         
+  - Politics  
+- title: "Contrafabulists Episode 45"
+  summary: "In this episode, we talk about wiretapping and greyballing."
+  description: "In this episode, we talk about wiretapping and greyballing."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: http://s3.amazonaws.com/contrafabulists/2017-03-05-episode-45.mp3
+  audio_length: 58640427    
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-45
+  duration: '0:40:43'
+  publish_date: "2017-03-05 09:00:00"
+  url: 2017/03/05/episode-45
+  tags:
+  - Technology
+  - Politics                           

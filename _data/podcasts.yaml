@@ -670,3 +670,17 @@
   tags:
   - Technology
   - Politics                           
+- title: "Contrafabulists Episode 46"
+  summary: "In this episode, we talk about machine learning and machine intelligence and the future of human knowledge."
+  description: "In this episode, we talk about machine learning and machine intelligence and the future of human knowledge."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: http://s3.amazonaws.com/contrafabulists/2017-03-12-episode-46.mp3
+  audio_length: 59709984     
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-46
+  duration: '0:41:28'
+  publish_date: "2017-03-12 09:00:00"
+  url: 2017/03/12/episode-46
+  tags:
+  - Technology
+  - Politics                           

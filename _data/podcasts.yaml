@@ -697,4 +697,18 @@
   url: 2017/03/19/episode-47
   tags:
   - Technology
-  - Politics                             
+  - Politics 
+- title: "Contrafabulists Episode 48"
+  summary: "In this episode, we talk about information security while traveling."
+  description: "In this episode, we talk about information security while traveling."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: http://s3.amazonaws.com/contrafabulists/2017-03-26-episode-48.mp3
+  audio_length: 50956038     
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-48
+  duration: '0:35:23'
+  publish_date: "2017-03-26 09:00:00"
+  url: 2017/03/26/episode-48
+  tags:
+  - Technology
+  - Politics                               

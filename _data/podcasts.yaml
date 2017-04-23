@@ -739,4 +739,18 @@
   url: 2017/04/16/episode-50
   tags:
   - Technology
-  - Politics                                   
+  - Politics 
+- title: "Contrafabulists Episode 51"
+  summary: "In this episode, we talk about brain implants, expeditions to Mars, Planned Parenthood as startup, and other technological, ideological nightmares."
+  description: "In this episode, we talk about brain implants, expeditions to Mars, Planned Parenthood as startup, and other technological, ideological nightmares."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: http://s3.amazonaws.com/contrafabulists/2017-04-23-episode-51.mp3
+  audio_length: 53290131      
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-51
+  duration: '0:37:00'
+  publish_date: "2017-04-23 15:00:00"
+  url: 2017/04/23/episode-51
+  tags:
+  - Technology
+  - Politics                                     

@@ -767,4 +767,18 @@
   url: 2017/04/30/episode-52
   tags:
   - Technology
-  - Politics                                       
+  - Politics 
+- title: "Contrafabulists Episode 53"
+  summary: "In this episode, we talk about net neutrality, content moderation, and phishing attacks."
+  description: "In this episode, we talk about net neutrality, content moderation, and phishing attacks."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: http://s3.amazonaws.com/contrafabulists/2017-05-09-episode-53.mp3
+  audio_length: 55038037    
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-53
+  duration: '0:38:13'
+  publish_date: "2017-05-09 15:00:00"
+  url: 2017/05/09/episode-53
+  tags:
+  - Technology
+  - Politics                                         

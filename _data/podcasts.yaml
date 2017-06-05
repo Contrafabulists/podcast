@@ -809,4 +809,18 @@
   url: 2017/05/28/episode-55
   tags:
   - Technology
-  - Politics                                             
+  - Politics 
+- title: "Contrafabulists Episode 56"
+  summary: "In this episode, we talk about Pinboard's acquisition of Delicious."
+  description: "In this episode, we talk about Pinboard's acquisition of Delicious."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: http://s3.amazonaws.com/contrafabulists/2017-06-04-episode-56.mp3
+  audio_length: 51471382   
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-56
+  duration: '0:35:44'
+  publish_date: "2017-06-04 14:50:00"
+  url: 2017/06/04/episode-56
+  tags:
+  - Technology
+  - Politics                                               

@@ -823,4 +823,18 @@
   url: 2017/06/04/episode-56
   tags:
   - Technology
-  - Politics                                               
+  - Politics 
+- title: "Contrafabulists Episode 57"
+  summary: "In this episode, we discuss Yahoo, Amazon, Uber, misogyny, and monopolies."
+  description: "In this episode, we discuss Yahoo, Amazon, Uber, misogyny, and monopolies."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: http://s3.amazonaws.com/contrafabulists/2017-06-18-episode-57.mp3
+  audio_length: 67305975   
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-57
+  duration: '0:46:44'
+  publish_date: "2017-06-18 17:15:00"
+  url: 2017/06/18/episode-57
+  tags:
+  - Technology
+  - Politics                                                 

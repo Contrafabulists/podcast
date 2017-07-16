@@ -879,4 +879,18 @@
   url: 2017/07/09/episode-60
   tags:
   - Technology
-  - Politics                                                       
+  - Politics 
+- title: "Contrafabulists Episode 61"
+  summary: "In this episode, we discuss Amazon Alexa and the skills gap."
+  description: "In this episode, we discuss Amazon Alexa and the skills gap."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: http://s3.amazonaws.com/contrafabulists/2017-07-16-episode-61.mp3
+  audio_length: 53397338  
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-61
+  duration: '0:37:05'
+  publish_date: "2017-07-16 12:45:00"
+  url: 2017/07/16/episode-61
+  tags:
+  - Technology
+  - Politics                                                         

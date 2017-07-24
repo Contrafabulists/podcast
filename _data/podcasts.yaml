@@ -893,4 +893,19 @@
   url: 2017/07/16/episode-61
   tags:
   - Technology
-  - Politics                                                         
+  - Politics 
+- title: "Contrafabulists Episode 62"
+  summary: "In this episode, we discuss our new policy of deleting old social media status updates and the new White House Communication's decision to do the same."
+  description: "In this episode, we discuss our new policy of deleting old social media status updates and the new White House Communication's decision to do the same."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: http://s3.amazonaws.com/contrafabulists/2017-07-23-episode-62.mp3
+  audio_length: 51863846  
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-62
+  duration: '0:36:01'
+  publish_date: "2017-07-23 20:30:00"
+  url: 2017/07/23/episode-62
+  tags:
+  - Technology
+  - Politics 
+

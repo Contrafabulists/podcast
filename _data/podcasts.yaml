@@ -908,4 +908,18 @@
   tags:
   - Technology
   - Politics 
+- title: "Contrafabulists Episode 63"
+  summary: "In this episode, we discuss the state of IT (and, more generally, expertise) in the federal government."
+  description: "In this episode, we discuss the state of IT (and, more generally, expertise) in the federal government."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: http://s3.amazonaws.com/contrafabulists/2017-07-30-episode-63.mp3
+  audio_length: 56250536  
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-63
+  duration: '0:39:04'
+  publish_date: "2017-07-30 15:30:00"
+  url: 2017/07/30/episode-63
+  tags:
+  - Technology
+  - Politics   
 

@@ -921,5 +921,18 @@
   url: 2017/07/30/episode-63
   tags:
   - Technology
-  - Politics   
-
+  - Politics 
+- title: "Contrafabulists Episode 64"
+  summary: "In this episode, we discuss the hype around Hyperloop and an anti-diversity manifesto written by a Google engineer."
+  description: "In this episode, we discuss the hype around Hyperloop and an anti-diversity manifesto written by a Google engineer."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: http://s3.amazonaws.com/contrafabulists/2017-08-06-episode-64.mp3
+  audio_length: 54110794  
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-64
+  duration: '0:37:34'
+  publish_date: "2017-08-06 15:30:00"
+  url: 2017/08/06/episode-64
+  tags:
+  - Technology
+  - Politics     

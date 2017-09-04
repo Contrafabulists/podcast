@@ -950,3 +950,17 @@
   tags:
   - Technology
   - Politics       
+- title: "Contrafabulists Episode 66"
+  summary: "In this episode, we talk about how Google (and other tech companies) are reshaping public policy and the narratives about public education."
+  description: "In this episode, we talk about how Google (and other tech companies) are reshaping public policy and the narratives about public education."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: http://s3.amazonaws.com/contrafabulists/2017-09-03-episode-66.mp3
+  audio_length: 70623735  
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-66
+  duration: '0:49:02'
+  publish_date: "2017-09-03 20:30:00"
+  url: 2017/09/03/episode-66
+  tags:
+  - Technology
+  - Politics       

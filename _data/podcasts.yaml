@@ -977,4 +977,19 @@
   url: 2017/09/10/episode-67
   tags:
   - Technology
-  - Politics         
+  - Politics 
+- title: "Contrafabulists Episode 68"
+  summary: "In this episode, we talk about automated decision-making."
+  description: "In this episode, we talk about automated decision-making."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: http://s3.amazonaws.com/contrafabulists/2017-09-24-episode-68.mp3
+  audio_length: 63205168 
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-68
+  duration: '0:43:53'
+  publish_date: "2017-09-24 19:15:00"
+  url: 2017/09/24/episode-68
+  tags:
+  - Technology
+  - Politics 
+

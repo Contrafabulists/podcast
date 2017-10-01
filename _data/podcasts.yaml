@@ -992,4 +992,19 @@
   tags:
   - Technology
   - Politics 
+- title: "Contrafabulists Episode 69"
+  summary: "In this episode, we talk about the repetitiveness of tech news."
+  description: "In this episode, we talk about the repetitiveness of tech news."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: http://s3.amazonaws.com/contrafabulists/2017-10-01-episode-69.mp3
+  audio_length: 60887375 
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-69
+  duration: '0:42:17'
+  publish_date: "2017-10-01 19:15:00"
+  url: 2017/10/01/episode-69
+  tags:
+  - Technology
+  - Politics 
+
 

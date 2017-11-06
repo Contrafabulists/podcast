@@ -1020,5 +1020,17 @@
   tags:
   - Technology
   - Politics   
-
-
+- title: "Contrafabulists Episode 71"
+  summary: "In this episode, we talk about tech journalism's failures to warn the public about tech's failures."
+  description: "In this episode, we talk about tech journalism's failures to warn the public about tech's failures."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: http://s3.amazonaws.com/contrafabulists/2017-11-05-episode-71.mp3
+  audio_length: 56785315 
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-71
+  duration: '0:39:26'
+  publish_date: "2017-11-05 16:50:00"
+  url: 2017/11/05/episode-71
+  tags:
+  - Technology
+  - Politics     

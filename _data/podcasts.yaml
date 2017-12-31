@@ -1062,3 +1062,18 @@
   tags:
   - Technology
   - Politics  
+- title: "Contrafabulists Episode 74"
+  summary: "In this episode, we talk about 2017."
+  description: "In this episode, we talk about 2017."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: http://s3.amazonaws.com/contrafabulists/2017-12-31-episode-74.mp3
+  audio_length: 55893808
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-74
+  duration: '0:38:49'
+  publish_date: "2017-12-31 17:40:00"
+  url: 2017/12/31/episode-74
+  tags:
+  - Technology
+  - Politics  
+

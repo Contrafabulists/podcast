@@ -1103,5 +1103,19 @@
   url: 2018/01/14/episode-76
   tags:
   - Technology
-  - Politics      
+  - Politics  
+- title: "Contrafabulists Episode 77"
+  summary: "In this episode, we talk about the tech 'regrets' industry."
+  description: "In this episode, we talk about the tech 'regrets' industry."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: http://s3.amazonaws.com/contrafabulists/2018-02-18-episode-77.mp3
+  audio_length: 55180352
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-76
+  duration: '0:38:19'
+  publish_date: "2018-02-18 19:10:00"
+  url: 2018/02/18/episode-77
+  tags:
+  - Technology
+  - Politics        
 

@@ -1111,10 +1111,24 @@
   image: /assets/images/cog-big.png
   audio_file: http://s3.amazonaws.com/contrafabulists/2018-02-18-episode-77.mp3
   audio_length: 55180352
-  sound_cloud: https://soundcloud.com/contrafabulists/episode-76
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-77
   duration: '0:38:19'
   publish_date: "2018-02-18 19:10:00"
   url: 2018/02/18/episode-77
+  tags:
+  - Technology
+  - Politics 
+  - title: "Contrafabulists Episode 78"
+  summary: "In this episode, we talk about our absence from podcasting."
+  description: "In this episode, we talk about our absence from podcasting."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: https://contrafabulists.s3.amazonaws.com/2019-06-30-episode-78.mp3
+  audio_length: 45630820
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-78
+  duration: '0:31:41'
+  publish_date: "2019-06-30 19:10:00"
+  url: 2019/06/30/episode-78
   tags:
   - Technology
   - Politics        

@@ -1131,5 +1131,19 @@
   url: 2019/06/30/episode-78
   tags:
   - Technology
+  - Politics  
+    - title: "Contrafabulists Episode 79"
+  summary: "In this episode, we talk about one of our least favorite fabulisms, that 'software is eating the world'."
+  description: "In this episode, we talk about one of our least favorite fabulisms, that 'software is eating the world'."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: https://contrafabulists.s3.amazonaws.com/2019-07-14-episode-79.mp3
+  audio_length: 52041896
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-79
+  duration: '0:36:08'
+  publish_date: "2019-07-14 23:10:00"
+  url: 2019/07/14/episode-79
+  tags:
+  - Technology
   - Politics        
 

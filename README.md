@@ -1,4 +1,4 @@
-podcast.techgypsi.es
+podcast.contrafabulists
 ========
 
-This repo powers the site http://podcast.techgypsi.es
+This repo powers the site http://podcast.contrafabulists.com/

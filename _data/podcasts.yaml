@@ -1132,7 +1132,7 @@
   tags:
   - Technology
   - Politics  
-  - title: "Contrafabulists Episode 80"
+  - title: "Contrafabulists Episode 79"
   summary: "In this episode, we talk about coming back, the gamification of employee retention, calendaring apps not evolving, and the Ticktockification of videos."
   description: "In this episode, we talk about coming back, the gamification of employee retention, calendaring apps not evolving, and the Ticktockification of videos."
   subtitle: "Tech, Scrutinized"
@@ -1146,4 +1146,17 @@
   tags:
   - Technology
   - Politics        
-
+  - title: "Contrafabulists Episode 80"
+  summary: "In this episode, we talk about coming back, the gamification of employee retention, calendaring apps not evolving, and the Ticktockification of videos."
+  description: "In this episode, we talk about how the man behind Ethereium is worried about crypto’s future, that you can hail a cab in NYC with Uber, and claim roadkill in Wyoming with the 511 application, while also diving into digital rest stops and Flickr payallinwg its NSFW content."
+  subtitle: "Tech, Scrutinized"
+  image: /assets/images/cog-big.png
+  audio_file: https://contrafabulists.s3.amazonaws.com/2022-03-25-episode-80-1.mp3
+  audio_length: 52041896
+  sound_cloud: https://soundcloud.com/contrafabulists/episode-80-1
+  duration: '0:36:08'
+  publish_date: "2022-03-25 23:10:00"
+  url: 2022/03/19/episode-80-1
+  tags:
+  - Technology
+  - Politics  
